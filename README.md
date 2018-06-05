@@ -1,1 +1,1 @@
-# feed-iterator-to-tf-model
+# Developing to train TF on toy datasets
